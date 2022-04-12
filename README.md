@@ -12,7 +12,7 @@
       + statically typed language variables' types are static, meaning once you set a variable to a type, you cannot change it. That is because typing is associated with the variable rather than the value it refers to.
       + The main advantage here is that all kinds of checking can be done by the compiler, and therefore a lot of trivial bugs are caught at a very early stage.
         + Examples: C, C++, Java, Rust, Go, Scala
-      + 
+      
 ## [Scripting Language vs Programming(compiled) Language](https://stackoverflow.com/questions/17253545/scripting-language-vs-programming-language) 
   1. Scripting languages are programming languages that don't require an explicit compilation step.  
       + C vs javascript (JS Doesn't required explicit compilation step)  
